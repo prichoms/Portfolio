@@ -9,6 +9,10 @@ h1{
 	text-decoration: underline;
 }
 
+#align{
+	 height:200px;
+	 width:200px;
+}
 
 body{
 	font-family: arial,sans-serif;
@@ -73,6 +77,11 @@ body{
 	font-weight: bold;
 	font-size: 2em;	
 }
+
+.carousel-item.active img,.carousel-item img{
+		height: 500px;
+		width: 100%;
+	}
 
 #runbtn{
 	text-align: center;
