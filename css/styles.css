@@ -155,7 +155,7 @@ footer p{
 @media (max-width: 576px){
 	#bgid{
 		background-image: url("../images/imgt.png") !important;
-		background-size: cover !important;
+		background-size: contain !important;
 		background-position: center !important;
 	}
 
